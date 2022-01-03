@@ -4,25 +4,25 @@
 
 <p align="center">
   <a
-    href="https://victorluismf.github.io/portfolio/"
+    href="https://victorluismf.github.io/portfolio/",
     target="_blank"
   >
     <img src="https://img.shields.io/badge/website-1A1A1A?style=for-the-badge&logo=dev.to&logoColor=FCBD38" />
   </a>
   <a
-    href="https://www.linkedin.com/in/victorluismf/" 
+    href="https://www.linkedin.com/in/victorluismf/" ,
     target="_blank"
   >
     <img src="https://img.shields.io/badge/linkedin-1A1A1A.svg?style=for-the-badge&logo=linkedin&logoColor=FCBD38" />
   </a>
   <a
-    href="mailto:victorluismf@outlook.com" 
+    href="mailto:victorluismf@outlook.com",
     target="_blank"
   >
     <img src="https://img.shields.io/badge/email-1A1A1A?style=for-the-badge&logo=microsoft-outlook&logoColor=FCBD38" />
   </a>
   <a
-    href="https://whats.link/victorluismf"
+    href="https://whats.link/victorluismf",
     target="_blank"
   >
     <img src="https://img.shields.io/badge/whatsapp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=FCBD38" />
