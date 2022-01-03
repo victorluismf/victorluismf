@@ -31,3 +31,4 @@
   >
     <img src="https://img.shields.io/badge/whatsapp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=FCBD38" />
   </a>
+  ![Snake animation](https://github.com/victorluismf/victorluismf/blob/output/github-contribution-grid-snake.svg)
