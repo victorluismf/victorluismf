@@ -39,7 +39,7 @@
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
   </div>
-  <div> 
+  <div>  
 
   ![Snake animation](https://github.com/victorluismf/victorluismf/blob/output/github-contribution-grid-snake.svg)
  
