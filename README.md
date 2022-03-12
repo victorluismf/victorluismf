@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ik.imagekit.io/victorluismf/readme-github_DAZtazEcH.png?updatedAt=1638816851491">
+  <img src="https://ik.imagekit.io/victorluismf/thumb-desafio_B_Wtb_7LEOr.png?ik-sdk-version=javascript-1.4.3&updatedAt=1646996849254">
 </p>
 <div align="center">
   <a href="https://github.com/victorluismf">
